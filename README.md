@@ -1,7 +1,5 @@
-# Created by Ryan McDonald
+Created by Ryan McDonald
 # Kayla's Kitchen
-
-Kayla's Kitchen
 
 This is a nodejs project created in cloud9.
 
